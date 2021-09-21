@@ -1,2 +1,3 @@
 # devops-netology
-### Some changes go here
+### Ignored: 
+1. Terraform files
